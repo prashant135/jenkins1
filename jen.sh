@@ -1,4 +1,4 @@
 #!/bin/bash
-uptime
-date
-uname -a
+whoami
+ls -la
+df -h
